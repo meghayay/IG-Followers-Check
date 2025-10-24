@@ -1,5 +1,5 @@
 # IG-Followers-Check
-Here is a `README.md` file you can use for your GitHub repository. It clearly explains the purpose of the script and the steps a user needs to follow, from downloading their Instagram data to running the Python code.
+ Tool that lets you see who doesn't follow you back on Instagram.
 
 -----
 
